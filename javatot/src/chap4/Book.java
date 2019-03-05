@@ -15,6 +15,10 @@ public class Book {
         System.out.println("Jumlah buku = " + Book.bil);
     }
     
+    public void info(){
+        
+    }
+    
     Book(){
         Book.bil = Book.bil + 1;
         System.out.println("Bil buku = " + Book.bil);

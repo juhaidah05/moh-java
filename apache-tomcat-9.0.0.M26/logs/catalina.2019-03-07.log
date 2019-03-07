@@ -1,0 +1,133 @@
+07-Mar-2019 09:04:28.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.0.M26
+07-Mar-2019 09:04:28.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2017 20:29:05 UTC
+07-Mar-2019 09:04:28.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.0.0
+07-Mar-2019 09:04:28.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8
+07-Mar-2019 09:04:28.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.2
+07-Mar-2019 09:04:28.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Mar-2019 09:04:28.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+07-Mar-2019 09:04:28.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+07-Mar-2019 09:04:28.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Mar-2019 09:04:28.951 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\apache-tomcat-9.0.0.M26
+07-Mar-2019 09:04:28.951 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.0.M26
+07-Mar-2019 09:04:28.951 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-9.0.0.M26\conf\logging.properties
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\apache-tomcat-9.0.0.M26
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.0.M26
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-9.0.0.M26\temp
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.12] using APR version [1.5.2].
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-Mar-2019 09:04:28.952 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-Mar-2019 09:04:29.604 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2k  26 Jan 2017]
+07-Mar-2019 09:04:29.828 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Mar-2019 09:04:30.017 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Mar-2019 09:04:30.020 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Mar-2019 09:04:30.021 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Mar-2019 09:04:30.021 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1569 ms
+07-Mar-2019 09:04:30.099 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Mar-2019 09:04:30.100 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.0.M26
+07-Mar-2019 09:04:30.111 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\apache-tomcat-9.0.0.M26\conf\Catalina\localhost\javaee.xml]
+07-Mar-2019 09:04:30.922 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Mar-2019 09:04:30.978 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\apache-tomcat-9.0.0.M26\conf\Catalina\localhost\javaee.xml] has finished in [867] ms
+07-Mar-2019 09:04:30.979 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\docs]
+07-Mar-2019 09:04:31.012 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\docs] has finished in [33] ms
+07-Mar-2019 09:04:31.013 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\examples]
+07-Mar-2019 09:04:32.435 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\examples] has finished in [1,422] ms
+07-Mar-2019 09:04:32.435 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\host-manager]
+07-Mar-2019 09:04:32.510 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\host-manager] has finished in [75] ms
+07-Mar-2019 09:04:32.511 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\manager]
+07-Mar-2019 09:04:32.554 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\manager] has finished in [43] ms
+07-Mar-2019 09:04:32.554 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\ROOT]
+07-Mar-2019 09:04:32.576 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\ROOT] has finished in [22] ms
+07-Mar-2019 09:04:32.576 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\tutorial]
+07-Mar-2019 09:04:32.626 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\tutorial] has finished in [50] ms
+07-Mar-2019 09:04:32.628 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Mar-2019 09:04:32.635 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Mar-2019 09:04:32.637 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2615 ms
+07-Mar-2019 09:11:19.199 INFO [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:11:19.484 INFO [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:16:39.013 INFO [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:16:39.148 INFO [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:23:51.315 INFO [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:23:51.414 INFO [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:40:36.534 INFO [http-nio-8080-exec-32] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:40:36.539 WARNING [http-nio-8080-exec-32] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [javaee] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+07-Mar-2019 09:40:36.646 INFO [http-nio-8080-exec-32] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:40:36.675 INFO [http-nio-8080-exec-35] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:40:36.754 INFO [http-nio-8080-exec-35] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:40:49.701 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:40:49.816 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:40:50.179 INFO [http-nio-8080-exec-41] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:40:50.264 INFO [http-nio-8080-exec-41] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:41:59.104 INFO [http-nio-8080-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:41:59.192 INFO [http-nio-8080-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:50:39.629 INFO [http-nio-8080-exec-48] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:50:39.711 INFO [http-nio-8080-exec-48] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:52:34.541 INFO [http-nio-8080-exec-57] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:52:34.545 WARNING [http-nio-8080-exec-57] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [javaee] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+07-Mar-2019 09:52:34.627 INFO [http-nio-8080-exec-57] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 09:52:39.104 INFO [http-nio-8080-exec-59] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 09:52:39.180 INFO [http-nio-8080-exec-59] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 10:02:44.555 INFO [http-nio-8080-exec-64] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 10:02:44.560 WARNING [http-nio-8080-exec-64] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [javaee] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+07-Mar-2019 10:02:44.634 INFO [http-nio-8080-exec-64] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 10:02:51.563 INFO [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 10:02:51.650 INFO [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 10:03:00.917 INFO [http-nio-8080-exec-74] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] has started
+07-Mar-2019 10:03:01.014 INFO [http-nio-8080-exec-74] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/javaee] is completed
+07-Mar-2019 10:30:18.334 INFO [http-nio-8080-exec-81] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\apache-tomcat-9.0.0.M26\conf\Catalina\localhost\pms.xml]
+07-Mar-2019 10:30:18.363 INFO [http-nio-8080-exec-81] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\apache-tomcat-9.0.0.M26\conf\Catalina\localhost\pms.xml] has finished in [28] ms
+07-Mar-2019 10:30:18.368 INFO [http-nio-8080-exec-83] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pms]] after start() had already been called. The second call will be ignored.
+07-Mar-2019 11:22:48.088 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.0.M26
+07-Mar-2019 11:22:48.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2017 20:29:05 UTC
+07-Mar-2019 11:22:48.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.0.0
+07-Mar-2019 11:22:48.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8
+07-Mar-2019 11:22:48.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.2
+07-Mar-2019 11:22:48.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Mar-2019 11:22:48.091 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+07-Mar-2019 11:22:48.091 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+07-Mar-2019 11:22:48.091 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Mar-2019 11:22:48.091 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\apache-tomcat-9.0.0.M26
+07-Mar-2019 11:22:48.091 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.0.M26
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-9.0.0.M26\conf\logging.properties
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|Lenovo-PC15
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\apache-tomcat-9.0.0.M26
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.0.M26
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-9.0.0.M26\temp
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.12] using APR version [1.5.2].
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-Mar-2019 11:22:48.092 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-Mar-2019 11:22:48.694 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2k  26 Jan 2017]
+07-Mar-2019 11:22:49.063 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Mar-2019 11:22:49.285 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Mar-2019 11:22:49.287 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Mar-2019 11:22:49.289 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Mar-2019 11:22:49.289 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1922 ms
+07-Mar-2019 11:22:49.375 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Mar-2019 11:22:49.375 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.0.M26
+07-Mar-2019 11:22:49.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\apache-tomcat-9.0.0.M26\conf\Catalina\localhost\javaee.xml]
+07-Mar-2019 11:22:49.800 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Mar-2019 11:22:49.869 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\apache-tomcat-9.0.0.M26\conf\Catalina\localhost\javaee.xml] has finished in [480] ms
+07-Mar-2019 11:22:49.869 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\apache-tomcat-9.0.0.M26\conf\Catalina\localhost\pms.xml]
+07-Mar-2019 11:22:49.885 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\apache-tomcat-9.0.0.M26\conf\Catalina\localhost\pms.xml] has finished in [16] ms
+07-Mar-2019 11:22:49.886 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\docs]
+07-Mar-2019 11:22:49.921 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\docs] has finished in [35] ms
+07-Mar-2019 11:22:49.921 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\examples]
+07-Mar-2019 11:22:50.152 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\examples] has finished in [231] ms
+07-Mar-2019 11:22:50.152 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\host-manager]
+07-Mar-2019 11:22:50.183 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\host-manager] has finished in [31] ms
+07-Mar-2019 11:22:50.183 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\manager]
+07-Mar-2019 11:22:50.217 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\manager] has finished in [34] ms
+07-Mar-2019 11:22:50.217 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\ROOT]
+07-Mar-2019 11:22:50.230 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\ROOT] has finished in [13] ms
+07-Mar-2019 11:22:50.231 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-9.0.0.M26\webapps\tutorial]
+07-Mar-2019 11:22:50.247 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.0.M26\webapps\tutorial] has finished in [16] ms
+07-Mar-2019 11:22:50.251 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Mar-2019 11:22:50.258 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Mar-2019 11:22:50.260 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 970 ms
+07-Mar-2019 11:37:55.171 INFO [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/pms] has started
+07-Mar-2019 11:37:55.298 INFO [18] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/pms] is completed
